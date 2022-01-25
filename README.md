@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BallerPaul
 - 👀 I’m interested in calculus, coding, and engineering
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently increasing my knowledge of object-oriented programming
 - 📫 3.paul.stokes@gmail.com
 
 <!---

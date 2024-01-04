@@ -1,9 +1,22 @@
+# Summary
 - 👋 Hi, I’m @BallerPaul
-- 👀 I’m interested in calculus, coding, and engineering
-- 🌱 I’m currently increasing my knowledge of object-oriented programming
+- 👀 I’m interested in .NET MAUI, Web APIs, and non-relational databases.
+- 🌱 I’m currently increasing my knowledge of Amazon Web Services, as well as data structures & algorithms.
 - 📫 3.paul.stokes@gmail.com
 
-<!---
-BallerPaul/BallerPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About
+## Coding Interests
+I am intrigued by .NET MAUI, event-driven architecture, and cloud infrastructure.
+
+## Personal Hobbies
+I enjoy cigars, coffee, and living an active lifestyle. Hobbies include Brazilian Jiu-Jitsu, cooking, and occasionally video games.
+
+# Projects
+## Learning Projects
+### Azure Developer Learning
+### AWS Practitioner Learning
+
+
+## Personal Projects
+### Swap App
+### Cigar Journal App
